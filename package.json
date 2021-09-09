@@ -1,0 +1,31 @@
+{
+  "name": "fastfeedback",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@chakra-ui/core": "^0.8.0",
+    "@emotion/core": "^10.0.28",
+    "@emotion/styled": "^10.0.27",
+    "@stripe/stripe-js": "^1.8.0",
+    "date-fns": "^2.14.0",
+    "emotion-theming": "^10.0.27",
+    "fathom-client": "^3.0.0",
+    "firebase": "^7.14.6",
+    "firebase-admin": "^8.12.1",
+    "iframe-resizer": "^4.2.11",
+    "js-cookie": "^2.2.1",
+    "next": "^9.3.3",
+    "next-seo": "^4.7.3",
+    "pino": "^6.3.2",
+    "pino-logflare": "^0.3.2",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "react-hook-form": "^5.7.2",
+    "swr": "^0.2.2"
+  }
+}
