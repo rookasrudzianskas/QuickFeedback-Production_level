@@ -51,6 +51,16 @@ class MyDocument extends Document {
             href="/favicons/safari-pinned-tab.svg"
             rel="mask-icon"
           />
+          <script
+              dangerouslySetInnerHTML={{
+                __html: `
+                          window.dataLayer = window.dataLayer || [];
+                          function gtag(){dataLayer.push(arguments);}
+                          gtag('js', new Date());
+                          gtag('config', 'G-04YMSG4ZHJ', { page_path: window.location.pathname });
+                        `,
+              }}
+          />
         </Head>
         <body>
           <Main />

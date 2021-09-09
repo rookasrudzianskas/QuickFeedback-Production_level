@@ -97,7 +97,7 @@ const Account = () => {
         <SettingsTable stripeRole={user?.stripeRole}>
           <FeedbackUsage />
           <Text my={4}>
-            Fast Feedback uses Stripe to update, change, or cancel your
+            Quick Feedback uses Google Pay to update, change, or cancel your
             subscription. You can also update card information and billing
             addresses through the secure portal.
           </Text>
