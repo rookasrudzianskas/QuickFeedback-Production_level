@@ -1,20 +1,20 @@
 const title =
-  'Fast Feedback – The easiest way to add comments or reviews to your static site.';
-const description = 'Fast Feedback is being built as part of React 2025.';
+  'Quick Feedback – The easiest way to add comments or reviews to your static site.';
+const description = 'Quick Feedback is being built as part of byRookas startups series';
 
 const SEO = {
   title,
   description,
-  canonical: 'https://fastfeedback.io',
+  canonical: 'https://quickfeedback.digital',
   openGraph: {
     type: 'website',
     locale: 'en_IE',
-    url: 'https://fastfeedback.io',
+    url: 'https://quickfeedback.digital',
     title,
     description,
     images: [
       {
-        url: 'https://fastfeedback.io/og.png',
+        url: 'https://quickfeedback.digital/og.png',
         alt: title,
         width: 1280,
         height: 720
