@@ -18,8 +18,8 @@ export default function FeedbackLink({ paths }) {
       >
         Leave a comment →
       </Link>
-      <Link fontSize="xs" color="blackAlpha.500" href="/" target="_blank">
-        Powered by Fast Feedback (Alpha)
+      <Link fontSize="xs" color="blackAlpha.500" href="https://wwww.quickfeedback.digital" target="_blank">
+        Powered by Quick Feedback (Production Beta) by Rokas Rudzianskas, made with ❤️
       </Link>
     </Flex>
   );
